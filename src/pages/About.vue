@@ -7,7 +7,11 @@
       <img src="../assets/idy_profile.png" alt="Idy's Photo" />
     </div>
     <p>
-      I help designers, small agencies and businesses bring their ideas to life.
+      I have been solving problems with software, for more than ten year. I
+      posses B.Eng and M.Sc in computing technologies from University of East
+      London and University of Sussex. I am interested in the following
+      paradigms AI, ML, Web develpment, Mobile apps (games) I enjoy these
+      languages currently; Python, R, JavaScript, React, Java, Rust, Go
     </p>
   </base-card>
 </template>
