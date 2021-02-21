@@ -10,7 +10,7 @@
       I have been solving problems with software, for more than ten year. I
       posses B.Eng and M.Sc in computing technologies from University of East
       London and University of Sussex. I am interested in the following
-      paradigms AI, ML, Web develpment, Mobile apps (games) I enjoy these
+      paradigms AI, ML, Web development, Mobile apps (games) I enjoy these
       languages currently; Python, R, JavaScript, React, Java, Rust, Go
     </p>
   </base-card>
